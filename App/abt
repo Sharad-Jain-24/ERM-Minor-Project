@@ -1,0 +1,46 @@
+Welcome to help service of this app.
+
+Intro:
+    This app is designed by Krishna Khanth & Sharad Jain.
+    The purpose of this app is to make the management of any event easy.
+
+Guide:
+    
+ 
+
+Keyboard Shortcuts:
+    Login page:
+        Login: Enter Key
+        Exit: Esc
+        
+    Login success page for Admin:
+        OK: Enter key
+        Add organizer: Ctrl + a
+            
+    Login success page for User:
+        OK: Enter key
+        
+    Add organizer page:
+        OK: Enter Key
+        
+    Add organizer success page:
+        OK: Enter Key
+
+    Manager page:
+        Event Registration: Ctrl + g
+        Event Verification: Ctrl + s
+        Event Management: Ctrl + e
+        
+    Event registraion page:
+        Generate: Enter key
+        Clear: Ctrl + r
+        
+    Event verification page:
+        Quit: "q"
+        Save: "s"
+        
+    Event Management page:
+        Add event: Ctrl + a
+        Remove Event: Ctrl + d
+        Clear: Ctrl + r
+
